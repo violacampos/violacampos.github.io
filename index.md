@@ -1,7 +1,7 @@
 ## Student projects
 ### Homomorphic Encryption (Bachelor thesis) _2013_
 ### Small Integral Trees
-Development of a parallelized search algorithm for _Integral Trees_, graphs free of cycles whose adjacency matrix has only integral eigenvalues. [PDF](https://jekyllrb.com/), [Slides](https://jekyllrb.com/), [code](https://jekyllrb.com/)
+Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
 
 ### Object tracking with event cameras
 ### Spiking Networks for Event-Based Angular Velocity Regression 
