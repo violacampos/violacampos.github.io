@@ -1,6 +1,6 @@
 ## Projects
 ### Homomorphic Encryption _2013_
-State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in python. (bachelor thesis) [PDF](/assets/thesis.pdf)
+State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in sage and python. (bachelor thesis) [PDF](/assets/thesis.pdf)
 ### Small Integral Trees
 Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
 
