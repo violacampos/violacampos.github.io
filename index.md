@@ -1,8 +1,11 @@
-## Undergraduate projects
-### Homomorphic Encryption (Bachelor thesis) __2013_
+## Student projects
+### Homomorphic Encryption (Bachelor thesis) _2013_
 ### Small Integral Trees
-### Object tracking with event cameras
+_Integral graphs_ are graphs with integral eigenvalues. 
 
+### Object tracking with event cameras
+### Spiking Networks for Event-Based Angular Velocity Regression 
+### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
 
 
 
