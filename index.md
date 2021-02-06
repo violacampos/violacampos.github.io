@@ -5,6 +5,7 @@ Development of a parallelized search algorithm for _Integral Trees_, connected, 
 
 ### Object tracking with event cameras
 ### Spiking Networks for Event-Based Angular Velocity Regression 
+Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from the event sequences.
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
 
 
