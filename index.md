@@ -1,11 +1,12 @@
-## Student projects
-### Homomorphic Encryption (Bachelor thesis) _2013_
+## Projects
+### Homomorphic Encryption _2013_
+State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in python. (bachelor thesis) [PDF](/assets/thesis.pdf)
 ### Small Integral Trees
 Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
 
 ### Object tracking with event cameras
 ### Spiking Networks for Event-Based Angular Velocity Regression 
-Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from the event sequences.
+Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from short event sequences. [PDF](/assets/small_integral_trees.pdf), [code](/assets/small_integral_trees_slides.pdf)
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
 
 
