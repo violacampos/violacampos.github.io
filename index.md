@@ -1,8 +1,4 @@
-I am a master student and teaching assistant in computer science currently working on my thesis about Retrieval-Augmented Language Models.
-During my master studies, I focused on machine learning, data science, computer vision and natural language processing. I am particularly interested 
-in ethical aspects in these fields. Currently I am looking for a PhD position.   
-
-## Selected Projects
+## Selected works
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
 (ongoing master thesis)
 
@@ -17,7 +13,7 @@ Overview of current methods for event based tracking and implementation of a vis
 ### Small Integral Trees
 Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
 
-### Homomorphic Encryption _2013_
+### Homomorphic Encryption
 State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in sage and python. (bachelor thesis) [PDF](/assets/thesis.pdf), [Slides](/assets/fhe_slides.pdf)
 
 
