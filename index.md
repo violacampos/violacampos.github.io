@@ -2,10 +2,11 @@ I am a master student in computer science, currently working on my thesis about 
 
 ## Selected Projects
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
+(ongoing master thesis)
 
 
 ### Spiking Networks for Event-Based Angular Velocity Regression 
-Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from short event sequences. [PDF](/assets/small_integral_trees.pdf), [code](/assets/small_integral_trees_slides.pdf)
+Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from short event sequences. [PDF](/assets/snn_angular_velocity.pdf), [code](https://gitlab.cs.hs-rm.de/vcampos/snn_angular_velocity)
 
 ### Object tracking with event cameras
 Overview of current methods for event based tracking and implementation of a visual system which tracks moving objects using event based vision.
