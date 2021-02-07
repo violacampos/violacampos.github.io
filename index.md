@@ -1,4 +1,6 @@
-I am a master student in computer science, currently working on my thesis about Retrieval-Augmented Language Models. I am especially interested in Machine Learning, NLP and Computer Vision.
+I am a master student and teaching assistant in computer science currently working on my thesis about Retrieval-Augmented Language Models.
+During my master studies, I focused on machine learning, data science, computer vision and natural language processing. I am particularly interested 
+in ethical aspects in these fields. Currently I am looking for a PhD position.   
 
 ## Selected Projects
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
