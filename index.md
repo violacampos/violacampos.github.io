@@ -8,7 +8,8 @@ I am a master student in computer science, currently working on my thesis about 
 Training of a Spiking Neural Network to predict the 3-DOF angular velocity of a rotating event camera from short event sequences. [PDF](/assets/small_integral_trees.pdf), [code](/assets/small_integral_trees_slides.pdf)
 
 ### Object tracking with event cameras
-[PDF](/assets/event_based_tracking.pdf), [code] ()
+Overview of current methods for event based tracking and implementation of a visual system which tracks moving objects using event based vision.
+[PDF](/assets/event_based_tracking.pdf), [code](https://gitlab.cs.hs-rm.de/vcampos/event_based_corner_tracker)
 
 ### Small Integral Trees
 Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
