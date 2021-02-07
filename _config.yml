@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: [Viola Campos]
 description: [I am a master student in computer science, currently working on my thesis about Retrieval-Augmented Language Models. I am especially interested in Machine Learning, NLP and Computer Vision. ]
 logo: /assets/viola_small.jpg
+content: [test content]
 show_downloads: false
 
