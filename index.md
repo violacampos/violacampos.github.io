@@ -1,4 +1,6 @@
-## Projects
+I am a master student in computer science, currently working on my thesis about Retrieval-Augmented Language Models. I am especially interested in Machine Learning, NLP and Computer Vision.
+
+## Selected Projects
 ### Sentence Similarity with Retrieval-Augmented Language Model Pre-Training
 
 
