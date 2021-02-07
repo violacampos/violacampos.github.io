@@ -14,7 +14,7 @@ Overview of current methods for event based tracking and implementation of a vis
 Development of a parallelized search algorithm for _Integral Trees_, connected, acyclic graphs whose adjacency matrix has only integral eigenvalues. [PDF](/assets/small_integral_trees.pdf), [Slides](/assets/small_integral_trees_slides.pdf)
 
 ### Homomorphic Encryption
-State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in sage and python. (bachelor thesis) [PDF](/assets/thesis.pdf), [Slides](/assets/fhe_slides.pdf)
+State of the art in Fully Homomorphic Encryption and prototypical implementation of a homomorphic encryption scheme in sage and python. (bachelor thesis) [PDF](/assets/thesis.pdf), [Slides](/assets/fhe_slides.pdf){:target="_blank"}
 
 
 
