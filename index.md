@@ -1,6 +1,6 @@
 ## Selected works
 ### Semantic Similarity with Retrieval-Augmented Language Model Pre-Training
-Ongoing master thesis under the supervision of [Adrian Ulges](https://www.cs.hs-rm.de/~ulges/){:target="_blank"}. 
+Ongoing master thesis under the supervision of [Adrian Ulges](https://www.cs.hs-rm.de/~ulges/){:target="_blank"}. Inspired by recent retrieval-augmented language models like [REALM](https://arxiv.org/abs/2002.08909){:target="_blank"} or [RAG](https://arxiv.org/abs/2005.11401){:target="_blank"}, the work investigates possibilities to employ retrieval-augmented language modeling on the task of semantic similarity. 
 
 
 ### Spiking Networks for Event-Based Angular Velocity Regression 
