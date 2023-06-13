@@ -10,7 +10,7 @@ Overview of current methods for event based tracking and implementation of a vis
 [PDF](/assets/event_based_tracking.pdf){:target="_blank"}, [code](https://gitlab.cs.hs-rm.de/vcampos/event_based_corner_tracker){:target="_blank"}
 
 ### Small Integral Trees
-Development of a parallelized search algorithm for _Small Integral Trees_, connected acyclic graphs whose adjacency matrix has only integral eigenvalues. \[[PDF](/assets/small_integral_trees.pdf)\| [some examples](https://www.win.tue.nl/~aeb/graphs/integral_trees.html)\]
+Development of a parallelized search algorithm for _Small Integral Trees_, connected acyclic graphs whose adjacency matrix has only integral eigenvalues. \[ [PDF](/assets/small_integral_trees.pdf) \| [some examples](https://www.win.tue.nl/~aeb/graphs/integral_trees.html) \]
 
 
 
