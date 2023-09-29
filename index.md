@@ -1,10 +1,10 @@
 ## PUBLICATIONS
 ### How Well Can Masked Language Models Spot Identifiers That Violate Naming Guidelines?
-Viola Campos, Johannes Villmow, Jean Petry, Amine Abbad-Andaloussi, Adrian Ulges, and Barbara Weber
+Viola Campos, Johannes Villmow, Jean Petry, Amine Abbad-Andaloussi, Adrian Ulges, and Barbara Weber |
 _SCAM 2023_
 
 ### Addressing Leakage in Self-Supervised Contextualized Code Retrieval
-Johannes Villmow, Viola Campos, Adrian Ulges, Ulrich Schwanecke
+Johannes Villmow, Viola Campos, Adrian Ulges, Ulrich Schwanecke |
 _COLING 2022_
 
 
