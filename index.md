@@ -9,7 +9,7 @@ _COLING 2022_
 
 
 
-## UNPUBLISHED
+## SELECTED WORK
 ### Unsupervised Neural Text Search using Retrieval-Augmented Language Modeling
 Master thesis. Inspired by recent retrieval-augmented language models such as [REALM](https://arxiv.org/abs/2002.08909){:target="_blank"} or [RAG](https://arxiv.org/abs/2005.11401){:target="_blank"}, the work investigates possibilities of using retrieval-augmented language modeling for self-supervised training of a transformer-based retriever. \[ [PDF](/assets/thesis_violacampos.pdf){:target="_blank"} \]
 
