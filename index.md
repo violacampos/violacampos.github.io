@@ -3,7 +3,7 @@
 Viola Campos, Johannes Villmow, Jean Petry, Amine Abbad-Andaloussi, Adrian Ulges, and Barbara Weber |
 _SCAM 2023_ [PDF](https://conferences.computer.org/icsmepub/pdfs/SCAM2023-ZPjMN85ZMA4HQwAsawf3H/050600a131/050600a131.pdf)
 
-### [Addressing Leakage in Self-Supervised Contextualized Code Retrieval
+### Addressing Leakage in Self-Supervised Contextualized Code Retrieval
 Johannes Villmow, Viola Campos, Adrian Ulges, Ulrich Schwanecke |
 _COLING 2022_ [PDF](https://aclanthology.org/2022.coling-1.84/)
 
